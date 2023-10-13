@@ -18,7 +18,10 @@ dependencies:
   # The latest pub version is commented out and shown below as an example.
 #  community_charts_common: ^1.0.2
   community_charts_common:
-    path: ../community_charts_common/
+    git:
+      url: https://github.com/MuhammadWaleedAmir/community_charts.git
+      ref: customization
+      path: community_charts_common
 
   flutter:
     sdk: flutter
