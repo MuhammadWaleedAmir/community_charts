@@ -5,8 +5,7 @@ environment:
   flutter: '>=2.5.0'
 
 dependencies:
-  community_charts_flutter:
-    path: ../
+  community_charts_flutter: ^1.0.1
   cupertino_icons: ^1.0.0
   flutter:
     sdk: flutter

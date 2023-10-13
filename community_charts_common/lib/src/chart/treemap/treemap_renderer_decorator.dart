@@ -17,7 +17,6 @@ import 'dart:math' show Rectangle;
 
 import 'package:community_charts_common/src/chart/common/chart_canvas.dart';
 import 'package:community_charts_common/src/common/graphics_factory.dart';
-
 import 'treemap_renderer_element.dart';
 
 /// Decorator that gets rendered after [TreeMapRendererElement]s are rendered.
