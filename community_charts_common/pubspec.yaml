@@ -1,4 +1,4 @@
-name: community_charts_common
+name: customized_community_charts_common
 version: 1.0.2
 description: A common library for charting packages. Forked from google/charts.
 repository: https://github.com/juliansteenbakker/community_charts
