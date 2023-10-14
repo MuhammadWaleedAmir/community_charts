@@ -16,17 +16,17 @@
 import 'dart:collection' show Queue;
 import 'dart:math' show MutableRectangle, Point, Rectangle, min;
 
-import 'package:community_charts_common/src/chart/common/base_chart.dart';
-import 'package:community_charts_common/src/chart/common/chart_canvas.dart';
-import 'package:community_charts_common/src/chart/common/datum_details.dart';
-import 'package:community_charts_common/src/chart/common/processed_series.dart';
-import 'package:community_charts_common/src/chart/common/series_datum.dart';
-import 'package:community_charts_common/src/chart/common/series_renderer.dart';
-import 'package:community_charts_common/src/common/math.dart'
+import 'package:customized_community_charts_common/src/chart/common/base_chart.dart';
+import 'package:customized_community_charts_common/src/chart/common/chart_canvas.dart';
+import 'package:customized_community_charts_common/src/chart/common/datum_details.dart';
+import 'package:customized_community_charts_common/src/chart/common/processed_series.dart';
+import 'package:customized_community_charts_common/src/chart/common/series_datum.dart';
+import 'package:customized_community_charts_common/src/chart/common/series_renderer.dart';
+import 'package:customized_community_charts_common/src/common/math.dart'
     show NullablePoint;
-import 'package:community_charts_common/src/common/style/style_factory.dart';
-import 'package:community_charts_common/src/data/series.dart';
-import 'package:community_charts_common/src/data/tree.dart';
+import 'package:customized_community_charts_common/src/common/style/style_factory.dart';
+import 'package:customized_community_charts_common/src/data/series.dart';
+import 'package:customized_community_charts_common/src/data/tree.dart';
 import 'package:meta/meta.dart';
 
 import 'treemap_label_decorator.dart';

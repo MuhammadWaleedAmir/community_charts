@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import 'package:community_charts_common/src/chart/cartesian/axis/tick_formatter.dart';
+import 'package:customized_community_charts_common/src/chart/cartesian/axis/tick_formatter.dart';
 import 'package:intl/intl.dart';
 import 'package:meta/meta.dart' show immutable;
 
