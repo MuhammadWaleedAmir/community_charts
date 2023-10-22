@@ -5,7 +5,11 @@ environment:
   flutter: '>=2.5.0'
 
 dependencies:
-  community_charts_flutter: ^1.0.1
+  customized_community_charts_flutter:
+    git:
+      url: https://github.com/MuhammadWaleedAmir/community_charts.git
+      ref: customization
+      path: customized_community_charts_flutter
   cupertino_icons: ^1.0.0
   flutter:
     sdk: flutter

@@ -7,7 +7,7 @@ Example:
 ```
 /// Bar chart with custom symbol in legend example.
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 
 /// Example custom renderer that renders [IconData].
 ///

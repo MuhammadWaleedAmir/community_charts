@@ -7,7 +7,7 @@ Example:
 ```
 /// Bar chart example
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 
 class StackedBarChart extends StatelessWidget {
   final List<charts.Series> seriesList;

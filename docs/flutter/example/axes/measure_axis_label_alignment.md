@@ -7,7 +7,7 @@ Example:
 ```
 /// Custom Tick Label Alignment Example
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 
 /// Example of using a custom primary measure replacing the renderSpec with one
 /// that aligns the text under the tick and left justifies.

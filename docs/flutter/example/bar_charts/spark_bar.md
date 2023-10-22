@@ -7,7 +7,7 @@ Example:
 ```
 /// Spark Bar Example
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 
 /// Example of a Spark Bar by hiding both axis, reducing the chart margins.
 class SparkBar extends StatelessWidget {

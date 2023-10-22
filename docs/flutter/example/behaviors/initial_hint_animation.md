@@ -33,7 +33,7 @@ Example:
 /// 2022 as the first value and the viewport will animate by panning values to
 /// the right until 2018 is the first value in the viewport.
 
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class InitialHintAnimation extends StatelessWidget {

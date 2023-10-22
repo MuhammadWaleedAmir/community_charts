@@ -7,7 +7,7 @@ Example:
 ```
 /// Example of axis using statically provided ticks.
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 
 /// Example of specifying a custom set of ticks to be used on the domain axis.
 ///

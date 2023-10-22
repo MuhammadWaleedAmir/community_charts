@@ -22,7 +22,7 @@
 import 'dart:math';
 // EXCLUDE_FROM_GALLERY_DOCS_END
 import 'package:flutter/material.dart';
-import 'package:community_charts_flutter/community_charts_flutter.dart'
+import 'package:customized_community_charts_flutter/community_charts_flutter.dart'
     as charts;
 
 /// Example that shows how to build a series legend that shows measure values

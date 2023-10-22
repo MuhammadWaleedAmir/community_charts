@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Vertical bar chart with bar label renderer example.
-import 'package:community_charts_flutter/flutter.dart' as charts;
+import 'package:customized_community_charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class VerticalBarLabelChart extends StatelessWidget {
